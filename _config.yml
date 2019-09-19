@@ -1,17 +1,17 @@
-title: Hello, world! I'm Anthony Lipscomb
+title: antlip.com | Anthony Lipscomb
 description: > # this means to ignore newlines until "baseurl:"
 
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://antlip.com" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+#site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Anthony Lipscomb
 author-img: img.jpg # add your photo
 about-author: I am a mobile developer. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
 social-github: anthony-lipscomb-dev # add your Github handle
 social-linkedin: anthony-lipscomb-jr-17a80933
 social-email: anthony.lipscomb@gmail.com
