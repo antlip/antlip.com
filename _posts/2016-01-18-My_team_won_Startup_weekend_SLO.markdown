@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My team won Startup Weekend SLO!
+title: Startup Weekend SLO 2016
 date: 2016-01-18 08:28:00 -0700
-description: We built a project around saving money and donating to schools.
+description: My team and I built a project around saving money and donating to schools.
 img: startup.png
-fig-caption: # Add figcaption (optional)
+fig-caption: Our presentation
 tags: [Competition, Android, Startup, Collectively, Java]
 ---
 
