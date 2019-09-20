@@ -10,7 +10,7 @@ tags: [Certificate, Android]
 
 <iframe
   src="https://www.credential.net/embed/j1fqmvsf?key=c51214f21d30f1bb8dad7d914bd000587064324c3b5e2c2537f8e67008607a1d"
-  style="position: relative; height: 2000px; width: 100%;"
+  style="position: relative; height: 1750px; width: 100%;"
   frameBorder="0"
   allowfullscreen>
 </iframe>
