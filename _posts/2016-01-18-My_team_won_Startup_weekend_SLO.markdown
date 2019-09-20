@@ -5,7 +5,7 @@ date: 2016-01-18 08:28:00 -0700
 description: We built a project around saving money and donating to schools.
 img: startup.png
 fig-caption: # Add figcaption (optional)
-tags: [Competition, Android, Startup, Collectively]
+tags: [Competition, Android, Startup, Collectively, Java]
 ---
 
 <p align="center">
