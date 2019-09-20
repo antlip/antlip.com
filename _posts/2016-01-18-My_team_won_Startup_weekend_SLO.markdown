@@ -9,5 +9,5 @@ tags: [Competition, Android, Startup, Collectively]
 ---
 
 <p align="center">
-  [Read the full article here](https://cla.calpoly.edu/news/2015/startup-weekend-2015s)
+  <a href="https://cla.calpoly.edu/news/2015/startup-weekend-2015s">Read the full article here</a>
 </p>
