@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My first code contest. Spoiler: I won!
+title: My first code contest
 date: 2011-10-10 08:28:00 -0700
-description: It's not as fancy as the image suggests.
+description: My first time using Github and I won a contest.
 img: code.jpg
 fig-caption: # Add figcaption (optional)
 tags: [Competition, Contest, Shopatron, C, Code]
