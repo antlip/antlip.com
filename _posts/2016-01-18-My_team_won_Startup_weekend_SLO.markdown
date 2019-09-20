@@ -8,4 +8,6 @@ fig-caption: # Add figcaption (optional)
 tags: [Competition, Android, Startup, Collectively]
 ---
 
-<p style="text-align: center;">[Read the full article here](https://cla.calpoly.edu/news/2015/startup-weekend-2015s)</p>
+<p align="center">
+  [Read the full article here](https://cla.calpoly.edu/news/2015/startup-weekend-2015s)
+</p>
